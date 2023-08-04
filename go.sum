@@ -1,6 +1,6 @@
 github.com/k2-fsa/sherpa-ncnn-go-linux v1.0.0 h1:5OsP3+R3WDNq5HZKawQQVcAw6p68kROc6YQgatkXQYI=
 github.com/k2-fsa/sherpa-ncnn-go-linux v1.0.0/go.mod h1:J5nhtRXymY4fcOQsq0dJyxYAISqq/FqcXHjV9FtKiMM=
-github.com/k2-fsa/sherpa-ncnn-go-macos v1.0.0 h1:8vAxiKIylQz3RJPgoPB09tVrJIPoldcg4F0K8yU5gxU=
-github.com/k2-fsa/sherpa-ncnn-go-macos v1.0.0/go.mod h1:zBUGOr6H3oXi2ys+vO3RE9hhd/hOBb2pMdhLxsGHxMY=
+github.com/k2-fsa/sherpa-ncnn-go-macos v1.0.1 h1:khZmub7Lqr3din+c8UcQx+y89m/0TG8zio2Gp98JOhk=
+github.com/k2-fsa/sherpa-ncnn-go-macos v1.0.1/go.mod h1:zBUGOr6H3oXi2ys+vO3RE9hhd/hOBb2pMdhLxsGHxMY=
 github.com/k2-fsa/sherpa-ncnn-go-windows v1.0.2 h1:se/s+FTN54tf1mqHduiTC72aXSYbyavQPSMpJcrtHtg=
 github.com/k2-fsa/sherpa-ncnn-go-windows v1.0.2/go.mod h1:7xN0Ojf3wDkeHFNFsD1xgAunnehpjRKcL4/4egbrdDY=
